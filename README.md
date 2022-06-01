@@ -16,6 +16,9 @@
   <a href="mailto:yuvrajsingh2348q@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-yuvrajsingh2348q@gmail.com-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
+   <a href="https://yuvraj-me.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
 </p>
 
 
@@ -26,7 +29,14 @@
 
 A creative, detail-oriented, software developer with a deep interest in web design.
 
+## Technologies
+![skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,r,vim,git,vscode&theme=light)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yuvraj-50)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yuvraj-singh-98a866221//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@yuvraj505)  
+## My Stats
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=leifaj&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=20222d&currStreakLabel=#FF721B&fire=#FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=#FF721B&sideNums=#FF721B&sideLabels=#FF721B">
+<p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yuvraj-50)  
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=leifaj.leifaj&left_color=hotpink&right_color=#FF721B&left_text=profile%20views"/>
+<p>  
