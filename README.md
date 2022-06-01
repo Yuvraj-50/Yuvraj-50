@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-yuvrajsingh2348q@gmail.com-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
    <a href="https://yuvraj-me.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF721B?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+    <img src="https://img.shields.io/badge/Prometheus-FF721B?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
 </p>
 
