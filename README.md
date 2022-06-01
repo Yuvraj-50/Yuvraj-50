@@ -34,9 +34,9 @@ A creative, detail-oriented, software developer with a deep interest in web desi
 
 ## My Stats
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=leifaj&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=20222d&currStreakLabel=#FF721B&fire=#FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=#FF721B&sideNums=#FF721B&sideLabels=#FF721B">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=yuvraj-50&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=20222d&currStreakLabel=#FF721B&fire=#FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=#FF721B&sideNums=#FF721B&sideLabels=#FF721B">
 <p>
 
 <p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=leifaj.leifaj&left_color=hotpink&right_color=#FF721B&left_text=profile%20views"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=yuvraj-50.yuvraj-50&left_color=#FF721B&right_color=#FF721B&left_text=profile%20views"/>
 <p>  
