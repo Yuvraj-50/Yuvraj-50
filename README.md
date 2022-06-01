@@ -2,6 +2,9 @@
 
 ![](https://github.com/Yuvraj-50/yuvraj-50/blob/master/banner.png.png)
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5001&color=ff721b&vCenter=true&center=true&width=460&lines=software+engineer;learning+enthusiast" </p>
+
 A creative, detail-oriented, software developer with a deep interest in web design.
 
 Skills: HTML, CSS, JAVASCRIPT, REACT, NODE , MONGODB, EXPRESS.
