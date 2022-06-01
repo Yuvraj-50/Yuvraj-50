@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/Yuvraj-50/yuvraj-50/blob/master/yuvraj.png)
+![](https://github.com/Yuvraj-50/yuvraj-50/blob/master/banner.png.png)
 
 A creative, detail-oriented, software developer with a deep interest in web design.
 
