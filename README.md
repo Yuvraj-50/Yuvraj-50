@@ -10,7 +10,7 @@
   <a href="https://twitter.com/@yuvraj505" target="_blank">
     <img src="https://img.shields.io/badge/-@yuvraj505-FF721B?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/leiannefaj/" target="_blank">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-98a866221/" target="_blank">
     <img src="https://img.shields.io/badge/-Yuvraj Singh-FF721B?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="mailto:yuvrajsingh2348q@gmail.com" target="_blank">
