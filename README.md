@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](https://github.com/Yuvraj-50/yuvraj-50/blob/master/banner.png.png)
 
 <p align="center">
@@ -23,9 +21,10 @@
 
 
 ## About Me
-
-*  &nbsp; I'm from India
-*  &nbsp;I’m currently learning web Development
+*  👋 &nbsp; Hi ther , I'm Yuvarj 
+*  🌍 &nbsp; I'm from India
+*  🧠  &nbsp;I’m currently learning web Development
+*  🤝  I'm open to freelance work & collaborating on interesting projects
 
 A creative, detail-oriented, software developer with a deep interest in web design.
 
