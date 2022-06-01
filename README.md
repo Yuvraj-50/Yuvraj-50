@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-yuvrajsingh2348q@gmail.com-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
   </a>
    <a href="https://yuvraj-me.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-FF721B?logo=gmail&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF721"/>
   </a>
 </p>
 
@@ -30,13 +30,9 @@
 A creative, detail-oriented, software developer with a deep interest in web design.
 
 ## Technologies
-![skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,py,r,vim,git,vscode&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,vscode&theme=light)
 
 ## My Stats
 <p align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=yuvraj-50&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=20222d&currStreakLabel=#FF721B&fire=#FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=#FF721B&sideNums=#FF721B&sideLabels=#FF721B">
 <p>
-
-<p align="center">
-<img src="https://visitor-badge.glitch.me/badge?page_id=yuvraj-50.yuvraj-50&left_color=#FF721B&right_color=#FF721B&left_text=profile%20views"/>
-<p>  
