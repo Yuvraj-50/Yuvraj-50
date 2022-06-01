@@ -33,5 +33,5 @@ A creative, detail-oriented, software developer with a deep interest in web desi
 
 ## My Stats
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=yuvraj-50&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=#FF721B&fire=#FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=#FF721B&sideNums=#FF721B&sideLabels=#FF721B">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=yuvraj-50&theme=prussian&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000&currStreakLabel=FF721B&fire=#FF721B&stroke=white&dates=white&currStreakNum=DDDDDD&ring=#FF721B&sideNums=#FF721B&sideLabels=#FF721B">
 <p>
